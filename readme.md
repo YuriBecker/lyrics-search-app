@@ -12,8 +12,8 @@ App to search lyrics of musics.
 <img src="https://user-images.githubusercontent.com/29691975/62827695-e60da880-bbaa-11e9-8bba-3387196a483d.png" alt="drawing" width="200"/>
 </p>
 
-## Used technologies
+## Built With
 
 - [React Native](https://facebook.github.io/react-native/)
-- [Lyrics.ovh](https://lyricsovh.docs.apiary.io)
-- [React Native Elements](https://react-native-training.github.io/react-native-elements/)
+- [Lyrics.ovh](https://lyricsovh.docs.apiary.io) - Lyrics API
+- [React Native Elements](https://react-native-training.github.io/react-native-elements/) - UI Components
