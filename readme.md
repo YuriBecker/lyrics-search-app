@@ -2,7 +2,7 @@
 
 App to search lyrics of musics.
 
-### Imagens
+### Images
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/29691975/62827698-e7d76c00-bbaa-11e9-870e-8051d681bca1.png" alt="drawing" width="200"/> 
